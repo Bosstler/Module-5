@@ -1,7 +1,6 @@
 
 /*
- * To change this template, choose Tools | Templates
- * and open the template in the editor.
+ * Author @ Bosstler
  */
 package com.exchange;
 
@@ -14,10 +13,7 @@ import java.io.InputStream;
 import java.net.*;
 import com.google.gson.*;
 
-/**
- *
- * @author pakallis
- */
+
 class Recv
 {
 private String lhs;
