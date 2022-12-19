@@ -1,19 +1,17 @@
 # Module-5
 ## Overview
 
-I wrote a program that converted currency values as a Java project that provides a web-based interface for exchanging/converting money from one currency to another. this application will be applicable for business, shares & finance-related areas.
+I wrote a program that converted currency values as an academic Java project that provides a web-based interface for exchanging/converting money from one currency to another. This application will be applicable for business, shares & finance-related areas.
 
 Writing this software gave me the needed experience to understand Java in a way that will benefit my future career as a developer.
-
-{Provide a link to your YouTube demonstration.  It should be a 4-5 minute demo of the software running and a walkthrough of the code.  Focus should be on sharing what you learned about the language syntax.}
 
 [Software Demo Video](https://youtu.be/yZSMUc22XX4)
 
 # Development Environment
 
-The tools to develop this software I used were VSC and Github
+The tools to develop this software I used were VSC, W3Schools, and Github
 
-This program is written in the Java language
+This program is written in Java
 
 # Useful Websites
 
